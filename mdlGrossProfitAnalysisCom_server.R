@@ -23,6 +23,10 @@ mdlGrossProfitAnalysisServer::rebate_actual_yearServer(input = input,output = ou
 mdlGrossProfitAnalysisServer::rebate_detailAmt_actual_monthServer(input = input,output = output,session = session,dms_token = dms_token)
 mdlGrossProfitAnalysisServer::rebate_detailAmt_actual_yearServer(input = input,output = output,session = session,dms_token = dms_token)
 
+mdlGrossProfitAnalysisServer::rule_commisionAmountServer(input = input,output = output,session = session,dms_token = dms_token)
+mdlGrossProfitAnalysisServer::rebate_exchangerateServer(input = input,output = output,session = session,dms_token = dms_token,erp_token = erp_token)
+mdlGrossProfitAnalysisServer::rule_rebateFobamountServer(input = input,output = output,session = session,dms_token = dms_token)
+
 
 
 
