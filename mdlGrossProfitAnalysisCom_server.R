@@ -34,6 +34,7 @@ mdlGrossProfitAnalysisServer::rebate_exchangerateServer(input = input,output = o
 mdlGrossProfitAnalysisServer::rule_rebateFobamountServer(input = input,output = output,session = session,dms_token = dms_token)
 mdlGrossProfitAnalysisServer::rule_payment_monthServer(input = input,output = output,session = session,dms_token = dms_token)
 
+#mdlGrossProfitAnalysisServer::rule_payment_monthServer(input = input,output = output,session = session,dms_token = dms_token)
 
 
 
