@@ -36,8 +36,9 @@ mdlGrossProfitAnalysisServer::rule_payment_monthServer(input = input,output = ou
 
 #mdlGrossProfitAnalysisServer::rule_payment_monthServer(input = input,output = output,session = session,dms_token = dms_token)
 
+mdlGrossProfitAnalysisServer::standardCost_managementupdateServer(input = input,output = output,session = session,dms_token = dms_token,erp_token = erp_token)
 
-
+mdlGrossProfitAnalysisServer::grossProfit_managementupdateServer(input = input,output = output,session = session,dms_token = dms_token,erp_token = erp_token)
 
 
 
